@@ -1585,7 +1585,6 @@ break;
   case 'menu':
 case 'help': {
     if (!isGroup) return;
-    if (!isReg) return enviar(respuesta.registro);
 
     const Mnu = Menu(timeFt, Bot, sender, groupName, groupMembers);
 
@@ -2289,7 +2288,6 @@ break
                 
                 
                 case 'emojimix': {
-    if (!isReg) return enviar(respuesta.registro);
     if (coins < 1) return enviar(respuesta.coins);
 
     if (!q) return enviar(`
