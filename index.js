@@ -27,7 +27,7 @@ const util = require("util")
 const speed = require("performance-now");
 const mimetype = require('mime-types')
 const { exec, spawn, execSync } = require("child_process")
-let phoneNumber = "5199999999"; // cambiar número
+let phoneNumber = "5492604631960"; // cambiar número
 const axios = require("axios")
  const ffmpeg = require('fluent-ffmpeg')
  
