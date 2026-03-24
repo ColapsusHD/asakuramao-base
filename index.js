@@ -69,8 +69,8 @@ const antilink = JSON.parse(fs.readFileSync('./settings/Grupo/Json/antilink.json
 const bngp = JSON.parse(fs.readFileSync('./settings/Grupo/Json/grupo.json'))
 const Antipv = JSON.parse(fs.readFileSync('./settings/Grupo/Json/chat.json'))
 const registro = JSON.parse(fs.readFileSync('./settings/Grupo/Json/registros.json')) 
-const Exportion = JSON.parse(fs.readFileSync('./Games/Json/exportion.json'))
-const Exportion1 = JSON.parse(fs.readFileSync('./Games/Json/exportion1.json'))
+// const Exportion = JSON.parse(fs.readFileSync('./Games/Json/exportion.json'))
+// const Exportion1 = JSON.parse(fs.readFileSync('./Games/Json/exportion1.json'))
 const Cuestions = JSON.parse(fs.readFileSync('./Games/Json/cuestions.json'))
               
    // 𝚃𝙸𝙼𝙴
